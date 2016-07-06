@@ -1,0 +1,215 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../Index/fondo.jpg);
+	font-family:Arial, Helvetica, sans-serif;
+	box-sizing:border-box;
+	 float:left;
+	 
+}
+
+
+
+
+#contenedor{
+
+	width:90%;
+	height:1010px;
+	float:center;
+	margin:0 auto;	
+	padding:20px;
+	box-sizing:border-box;
+	background-color:rgba(253,118,1,0.98);
+	
+}
+
+
+
+article{
+	width:100%;
+	height:410px;
+	float:left;
+	margin:0px;
+	
+}
+
+#video{
+	width:100%;
+	height:280px;
+	float:left;
+	margin:0px;
+	padding-top:30px;
+}
+
+header{
+	
+	width:100%;
+	height:180px;
+	float:left;
+	margin:0px;
+	
+}
+
+nav{
+	
+
+	
+	height:70px;
+	width:100%;
+	float:left;
+	text-align:center;
+	padding:0px;
+	box-sizing:border-box;
+	
+}
+
+
+
+a{
+	
+	
+	float:right;
+	width:11%;
+	height:30px;
+	line-height:40px;
+	text-decoration:blink;
+	text-align:center;
+	color:blue;
+	font-size:14px;
+	
+}
+
+
+	
+a:hover{
+	font-size:10px;
+	font-style:italic;
+	color:#DCF902;
+	background:#F8060A;
+	float:center;
+	margin:0px;
+}
+
+
+
+h2{
+	float:left;
+	text-align:center;
+	margin:0px;
+	width:100%;
+	height:30px;
+	
+}
+
+
+#logo{
+	
+	
+	
+	height:70px;
+	width:30%;
+	float:left;
+	text-align:center; /*para alinear texto*/
+	padding:4px;/*espacio entre el borde y el texto*/ 
+	box-sizing:border-box;/*borde automatico*/
+}
+
+	
+	
+#derecha{
+	
+	height:670px;
+	width:40%;
+	float:left;
+	text-align:center; /*para alinear texto*/
+	padding:20px;/*espacio entre el borde y el texto*/ 
+	box-sizing:border-box;/*borde automatico*/
+}
+
+
+#medio{
+
+	height:440px;
+	width:30%;
+	float:left;
+	text-align:center;
+	padding:20px;
+	box-sizing:border-box;
+}
+
+
+#izquierda{
+	
+	height:440px;
+	width:30%;
+	float:right;
+	text-align:center;
+	padding:20px;
+	box-sizing:border-box;
+}
+
+b{
+	height:100px;
+	width:45%;
+	color:black;
+	float:right;
+	text-align:right;
+	margin:0px;
+	padding:10px;
+	padding-top:70px;
+}
+
+
+
+h5{
+	color:black;
+	float:left;
+	text-align:center;
+	margin:0px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:15px;
+}
+
+
+#iframe{
+            width:90%;
+            height:250px;
+            float:left;
+			text-align:center;
+			margin:0px;
+            color:#EAEAAE;
+            font-family:verdana;
+			padding-bottom:20px;
+			padding-top:20px;
+			padding-left:20px;
+			padding-right:20px;
+			    
+  }
+  
+  audio{
+	 		 width:60%;
+            height:10px;
+			float:right;
+			padding-top:30px;
+  }
+  
+  
+  
+  
+  #audio{
+            width:30%;
+            height:40px;
+			float:right;
+			margin:0 auto;
+  }
+  
+  
+   #logoinferior{
+    		width:60%;
+			height:250px;
+			float:left;
+			padding-top:50px;
+   
+   }
+   
